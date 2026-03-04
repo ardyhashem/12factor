@@ -12,3 +12,4 @@ gem 'rack-ssl-enforcer'
 gem "rackup", "~> 2.2"
 gem 'rexml'
 gem 'rtl'
+gem 'middleman'
